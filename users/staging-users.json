@@ -1,0 +1,12 @@
+{
+  "name": "StagingUsers",
+  "type": "json",
+  "extends": [
+    "../staging.json"
+  ],
+  "config": {
+    "db": {
+      "pool": 5
+    }
+  }
+}
