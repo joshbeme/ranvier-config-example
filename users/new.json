@@ -1,0 +1,17 @@
+{
+  "name": "NewConfig",
+  "type": "json",
+  "extends": [
+    "../staging.json"
+  ],
+  "config": {
+    "value": [
+      {
+        "hi": "there"
+      },
+      {
+        "hello": "again"
+      }
+    ]
+  }
+}
