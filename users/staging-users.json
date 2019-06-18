@@ -6,7 +6,7 @@
   ],
   "config": {
     "db": {
-      "pool": 6,
+      "pool": 7,
       "conns": 10
     }
   }
